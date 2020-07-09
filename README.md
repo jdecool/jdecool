@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Jérémy, a french software engineer, enthusiastic developer & eternal learner.
+
+#### Links
+
+- Twitter: [@jdecool](https://twitter.com/jdecool)
+- LinkedIn: [/jdecool](https://linkedin.com/in/jdecool)
+- My personal website: [FR](https://www.jdecool.fr) or [EN](https://www.jdecool.fr/en/)
+
+
 <!--
 **jdecool/jdecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
