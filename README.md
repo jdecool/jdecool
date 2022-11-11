@@ -5,6 +5,7 @@ I'm Jérémy, a french software engineer, enthusiastic developer & eternal learn
 #### Links
 
 - Twitter: [@jdecool](https://twitter.com/jdecool)
+- Mastodon: [@jdecool@phpc.social](https://phpc.social/@jdecool)
 - LinkedIn: [/jdecool](https://linkedin.com/in/jdecool)
 - My personal website: [FR](https://www.jdecool.fr) or [EN](https://www.jdecool.fr/en/)
 
